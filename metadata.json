@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Scene Creator",
+  "description": "An AI-powered application to generate complex scenes by combining reference characters, a background, and a text prompt. Upload your assets, describe the scene, and let the AI create four unique 4K images.",
+  "requestFramePermissions": []
+}
